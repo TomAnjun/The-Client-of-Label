@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ShengXinSolution.Client.LablePrintSystem.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CLIENT_VERSION" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1.0</Value>
+    </Setting>
+    <Setting Name="API_SERVER_PORT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">80</Value>
+    </Setting>
+    <Setting Name="API_BASE_URL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/sxn</Value>
+    </Setting>
+    <Setting Name="CLIENT_UPDATE_URL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://sdm-mail.com/sxn/download/lable-print-system-install/publish.htm</Value>
+    </Setting>
+    <Setting Name="UPDATE_LOG" Type="System.String" Scope="User">
+      <Value Profile="(Default)">服务器配置修改</Value>
+    </Setting>
+    <Setting Name="UPDATE_LOG_READ_YN" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="HTTP_REQUEST_TIMEOUT" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10000</Value>
+    </Setting>
+    <Setting Name="WEIGHT_PRECISION" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="API_SERVER_HOST" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://sdm-mail.com</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

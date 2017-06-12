@@ -1,0 +1,133 @@
+D:\海外仓标签打印\新建文件夹 (2)\ShengXinSolution.Client.LablePrintSystemV2\bin\Debug\Resources\yamato.bmp
+D:\海外仓标签打印\新建文件夹 (2)\ShengXinSolution.Client.LablePrintSystemV2\bin\Debug\Libs\Argox\WinPort.lib
+D:\海外仓标签打印\新建文件夹 (2)\ShengXinSolution.Client.LablePrintSystemV2\bin\Debug\Libs\Argox\Winpplb.lib
+D:\海外仓标签打印\新建文件夹 (2)\ShengXinSolution.Client.LablePrintSystemV2\bin\Debug\Resources\customs.bmp
+D:\海外仓标签打印\新建文件夹 (2)\ShengXinSolution.Client.LablePrintSystemV2\bin\Debug\Resources\jpEmsSmallBmp.bmp
+D:\海外仓标签打印\新建文件夹 (2)\ShengXinSolution.Client.LablePrintSystemV2\bin\Debug\Libs\Argox\WinPort.dll
+D:\海外仓标签打印\新建文件夹 (2)\ShengXinSolution.Client.LablePrintSystemV2\bin\Debug\Libs\Argox\Winpplb.dll
+D:\海外仓标签打印\新建文件夹 (2)\ShengXinSolution.Client.LablePrintSystemV2\bin\Debug\WareHouseSolution.Client.LablePrintSystem.exe.config
+D:\海外仓标签打印\新建文件夹 (2)\ShengXinSolution.Client.LablePrintSystemV2\bin\Debug\WareHouseSolution.Client.LablePrintSystem.exe.manifest
+D:\海外仓标签打印\新建文件夹 (2)\ShengXinSolution.Client.LablePrintSystemV2\bin\Debug\WareHouseSolution.Client.LablePrintSystem.application
+D:\海外仓标签打印\新建文件夹 (2)\ShengXinSolution.Client.LablePrintSystemV2\bin\Debug\WareHouseSolution.Client.LablePrintSystem.exe
+D:\海外仓标签打印\新建文件夹 (2)\ShengXinSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.Controls.OrderInfoControl.resources
+D:\海外仓标签打印\新建文件夹 (2)\ShengXinSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.Controls.SettingControl.resources
+D:\海外仓标签打印\新建文件夹 (2)\ShengXinSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.IndexForm1.resources
+D:\海外仓标签打印\新建文件夹 (2)\ShengXinSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.LoginForm.resources
+D:\海外仓标签打印\新建文件夹 (2)\ShengXinSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.Properties.Resources.resources
+D:\海外仓标签打印\新建文件夹 (2)\ShengXinSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.csproj.GenerateResource.Cache
+D:\海外仓标签打印\新建文件夹 (2)\ShengXinSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.TrustInfo.xml
+D:\海外仓标签打印\新建文件夹 (2)\ShengXinSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.exe.manifest
+D:\海外仓标签打印\新建文件夹 (2)\ShengXinSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.application
+D:\海外仓标签打印\新建文件夹 (2)\ShengXinSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.exe
+D:\海外仓标签打印\新建文件夹 (2)\ShengXinSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.pdb
+D:\海外仓标签打印\新建文件夹 (2)\ShengXinSolution.Client.LablePrintSystemV2\bin\Debug\WareHouseSolution.Client.LablePrintSystem.pdb
+D:\海外仓标签打印\新建文件夹 (2)\ShengXinSolution.Client.LablePrintSystemV2\bin\Debug\CSkin.xml
+D:\海外仓标签打印\新建文件夹 (2)\ShengXinSolution.Client.LablePrintSystemV2\bin\Debug\log4net.xml
+D:\海外仓标签打印\新建文件夹 (2)\ShengXinSolution.Client.LablePrintSystemV2\bin\Debug\Newtonsoft.Json.xml
+D:\海外仓标签打印\新建文件夹 (2)\ShengXinSolution.Client.LablePrintSystemV2\bin\Debug\RestSharp.xml
+D:\海外仓标签打印\新建文件夹 (2)\ShengXinSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.csprojResolveAssemblyReference.cache
+D:\海外仓标签打印\新建文件夹 (2)\ShengXinSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.Controls.ProductControl.resources
+D:\海外仓标签打印\第二版\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\WareHouseSolution.Client.LablePrintSystem.exe.config
+D:\海外仓标签打印\第二版\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.exe
+D:\海外仓标签打印\第二版\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.pdb
+D:\海外仓标签打印\第二版\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\Resources\yamato.bmp
+D:\海外仓标签打印\第二版\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\Libs\Argox\WinPort.lib
+D:\海外仓标签打印\第二版\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\Libs\Argox\Winpplb.lib
+D:\海外仓标签打印\第二版\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\Resources\customs.bmp
+D:\海外仓标签打印\第二版\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\Resources\jpEmsSmallBmp.bmp
+D:\海外仓标签打印\第二版\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\Libs\Argox\WinPort.dll
+D:\海外仓标签打印\第二版\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\Libs\Argox\Winpplb.dll
+D:\海外仓标签打印\第二版\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\WareHouseSolution.Client.LablePrintSystem.exe.manifest
+D:\海外仓标签打印\第二版\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\WareHouseSolution.Client.LablePrintSystem.application
+D:\海外仓标签打印\第二版\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\WareHouseSolution.Client.LablePrintSystem.exe
+D:\海外仓标签打印\第二版\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\WareHouseSolution.Client.LablePrintSystem.pdb
+D:\海外仓标签打印\第二版\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.Controls.OrderInfoControl.resources
+D:\海外仓标签打印\第二版\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.Controls.ProductControl.resources
+D:\海外仓标签打印\第二版\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.Controls.SettingControl.resources
+D:\海外仓标签打印\第二版\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.IndexForm1.resources
+D:\海外仓标签打印\第二版\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.LoginForm.resources
+D:\海外仓标签打印\第二版\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.Properties.Resources.resources
+D:\海外仓标签打印\第二版\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.csproj.GenerateResource.Cache
+D:\海外仓标签打印\第二版\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.TrustInfo.xml
+D:\海外仓标签打印\第二版\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.exe.manifest
+D:\海外仓标签打印\第二版\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.application
+D:\海外仓标签打印\第二版 - 1.0.1\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\WareHouseSolution.Client.LablePrintSystem.exe.config
+D:\海外仓标签打印\第二版 - 1.0.1\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.exe
+D:\海外仓标签打印\第二版 - 1.0.1\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.pdb
+D:\海外仓标签打印\第二版 - 1.0.1\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\Resources\yamato.bmp
+D:\海外仓标签打印\第二版 - 1.0.1\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\Libs\Argox\WinPort.lib
+D:\海外仓标签打印\第二版 - 1.0.1\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\Libs\Argox\Winpplb.lib
+D:\海外仓标签打印\第二版 - 1.0.1\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\Resources\customs.bmp
+D:\海外仓标签打印\第二版 - 1.0.1\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\Resources\jpEmsSmallBmp.bmp
+D:\海外仓标签打印\第二版 - 1.0.1\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\Libs\Argox\WinPort.dll
+D:\海外仓标签打印\第二版 - 1.0.1\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\Libs\Argox\Winpplb.dll
+D:\海外仓标签打印\第二版 - 1.0.1\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\WareHouseSolution.Client.LablePrintSystem.exe.manifest
+D:\海外仓标签打印\第二版 - 1.0.1\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\WareHouseSolution.Client.LablePrintSystem.application
+D:\海外仓标签打印\第二版 - 1.0.1\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\WareHouseSolution.Client.LablePrintSystem.exe
+D:\海外仓标签打印\第二版 - 1.0.1\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\WareHouseSolution.Client.LablePrintSystem.pdb
+D:\海外仓标签打印\第二版 - 1.0.1\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.Controls.OrderInfoControl.resources
+D:\海外仓标签打印\第二版 - 1.0.1\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.Controls.ProductControl.resources
+D:\海外仓标签打印\第二版 - 1.0.1\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.Controls.SettingControl.resources
+D:\海外仓标签打印\第二版 - 1.0.1\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.IndexForm1.resources
+D:\海外仓标签打印\第二版 - 1.0.1\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.LoginForm.resources
+D:\海外仓标签打印\第二版 - 1.0.1\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.Properties.Resources.resources
+D:\海外仓标签打印\第二版 - 1.0.1\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.csproj.GenerateResource.Cache
+D:\海外仓标签打印\第二版 - 1.0.1\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.TrustInfo.xml
+D:\海外仓标签打印\第二版 - 1.0.1\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.exe.manifest
+D:\海外仓标签打印\第二版 - 1.0.1\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.application
+D:\海外仓标签打印\第二版 - 1.0.1\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.csprojResolveAssemblyReference.cache
+D:\海外仓标签打印\第三版 - 1.0.0\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\WareHouseSolution.Client.LablePrintSystem.exe.config
+D:\海外仓标签打印\第三版 - 1.0.0\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.exe
+D:\海外仓标签打印\第三版 - 1.0.0\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.pdb
+D:\海外仓标签打印\第三版 - 1.0.0\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\Resources\yamato.bmp
+D:\海外仓标签打印\第三版 - 1.0.0\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\Libs\Argox\WinPort.lib
+D:\海外仓标签打印\第三版 - 1.0.0\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\Libs\Argox\Winpplb.lib
+D:\海外仓标签打印\第三版 - 1.0.0\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\Resources\customs.bmp
+D:\海外仓标签打印\第三版 - 1.0.0\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\Resources\jpEmsSmallBmp.bmp
+D:\海外仓标签打印\第三版 - 1.0.0\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\Libs\Argox\WinPort.dll
+D:\海外仓标签打印\第三版 - 1.0.0\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\Libs\Argox\Winpplb.dll
+D:\海外仓标签打印\第三版 - 1.0.0\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\WareHouseSolution.Client.LablePrintSystem.exe.manifest
+D:\海外仓标签打印\第三版 - 1.0.0\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\WareHouseSolution.Client.LablePrintSystem.application
+D:\海外仓标签打印\第三版 - 1.0.0\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\WareHouseSolution.Client.LablePrintSystem.exe
+D:\海外仓标签打印\第三版 - 1.0.0\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\WareHouseSolution.Client.LablePrintSystem.pdb
+D:\海外仓标签打印\第三版 - 1.0.0\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.Controls.OrderInfoControl.resources
+D:\海外仓标签打印\第三版 - 1.0.0\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.Controls.ProductControl.resources
+D:\海外仓标签打印\第三版 - 1.0.0\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.Controls.SettingControl.resources
+D:\海外仓标签打印\第三版 - 1.0.0\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.IndexForm1.resources
+D:\海外仓标签打印\第三版 - 1.0.0\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.LoginForm.resources
+D:\海外仓标签打印\第三版 - 1.0.0\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.Properties.Resources.resources
+D:\海外仓标签打印\第三版 - 1.0.0\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.csproj.GenerateResource.Cache
+D:\海外仓标签打印\第三版 - 1.0.0\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.TrustInfo.xml
+D:\海外仓标签打印\第三版 - 1.0.0\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.exe.manifest
+D:\海外仓标签打印\第三版 - 1.0.0\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.application
+D:\海外仓标签打印\第三版 - 1.0.0\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.Controls.OrderAndProductControl.resources
+D:\海外仓标签打印\第三版 - 1.0.0\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.csprojResolveAssemblyReference.cache
+D:\海外仓标签打印\新建文件夹\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\WareHouseSolution.Client.LablePrintSystem.exe.config
+D:\海外仓标签打印\新建文件夹\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.exe
+D:\海外仓标签打印\新建文件夹\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.pdb
+D:\海外仓标签打印\新建文件夹\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\Resources\yamato.bmp
+D:\海外仓标签打印\新建文件夹\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\Libs\Argox\WinPort.lib
+D:\海外仓标签打印\新建文件夹\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\Libs\Argox\Winpplb.lib
+D:\海外仓标签打印\新建文件夹\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\Resources\customs.bmp
+D:\海外仓标签打印\新建文件夹\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\Resources\jpEmsSmallBmp.bmp
+D:\海外仓标签打印\新建文件夹\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\Libs\Argox\WinPort.dll
+D:\海外仓标签打印\新建文件夹\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\Libs\Argox\Winpplb.dll
+D:\海外仓标签打印\新建文件夹\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\WareHouseSolution.Client.LablePrintSystem.exe.manifest
+D:\海外仓标签打印\新建文件夹\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\WareHouseSolution.Client.LablePrintSystem.application
+D:\海外仓标签打印\新建文件夹\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\WareHouseSolution.Client.LablePrintSystem.exe
+D:\海外仓标签打印\新建文件夹\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\WareHouseSolution.Client.LablePrintSystem.pdb
+D:\海外仓标签打印\新建文件夹\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.csprojResolveAssemblyReference.cache
+D:\海外仓标签打印\新建文件夹\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.Controls.OrderAndProductControl.resources
+D:\海外仓标签打印\新建文件夹\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.Controls.OrderInfoControl.resources
+D:\海外仓标签打印\新建文件夹\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.Controls.ProductControl.resources
+D:\海外仓标签打印\新建文件夹\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.Controls.SettingControl.resources
+D:\海外仓标签打印\新建文件夹\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.IndexForm1.resources
+D:\海外仓标签打印\新建文件夹\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.LoginForm.resources
+D:\海外仓标签打印\新建文件夹\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.Properties.Resources.resources
+D:\海外仓标签打印\新建文件夹\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.csproj.GenerateResource.Cache
+D:\海外仓标签打印\新建文件夹\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.TrustInfo.xml
+D:\海外仓标签打印\新建文件夹\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.exe.manifest
+D:\海外仓标签打印\新建文件夹\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.application
+D:\海外仓标签打印\新建文件夹\条码打印2.0\WareHouseSolution.Client.LablePrintSystemV2\bin\Debug\WareHouseSolution.Client.LablePrintSystem.exe.config
+D:\海外仓标签打印\新建文件夹\条码打印2.0\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.exe
+D:\海外仓标签打印\新建文件夹\条码打印2.0\WareHouseSolution.Client.LablePrintSystemV2\obj\Debug\WareHouseSolution.Client.LablePrintSystem.pdb
